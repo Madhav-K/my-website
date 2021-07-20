@@ -1,0 +1,44 @@
+body
+  {
+    background-color: #e3fdfd;
+  }
+  hr
+  {
+    border-style: dotted none none none;
+    width: 100%;
+    border-color: #1b2021;
+    border-width: 4px;
+
+  }
+  h1
+  {
+    color: #66bfbf;
+  }
+  h3
+  {
+    color: #66bfbf;
+  }
+  img
+  {
+    background-color: red;
+  }
+  .firstheading
+  {
+    font-style: normal;
+    font-size: 400%;
+    text-decoration: underline;
+    color: orange;
+
+  }
+  .mypic
+  {
+    border-color: black;
+    background-color: blue;
+
+  }
+  .newhr
+  {
+    border-style: solid;
+    height: 1px;
+    border-color: lightblue;
+  }
